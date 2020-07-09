@@ -6,4 +6,4 @@ I am passionate about building projects, startups, ideas that bring something go
 - 🌱 I’m currently learning Rust and Phoenix (Elixir)
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **eu@luiz.cc**
-- ⚡ Fun fact: I started coding with PHP and Java
+- ⚡ Fun fact: I started coding with Java, when I was trying to modify/maintain a Lineage II server.
